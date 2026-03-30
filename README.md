@@ -34,7 +34,7 @@ This project investigates whether emotion detection models trained on Reddit dat
 ├── MSIN0221_team 1_final project_presentation (1).pptx   # Presentation slides
 ├── MSIN0221 Assessment Brief - Group Assignment-6.pdf    # Assignment specification
 ├── LICENSE
-└── README.md
+└── README.md 
 
 ## Methodology
 
