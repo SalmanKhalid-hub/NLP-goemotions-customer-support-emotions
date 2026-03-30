@@ -29,13 +29,12 @@ This project investigates whether emotion detection models trained on Reddit dat
 
 ## Project Structure
 
-├── GP_team 1 (1).ipynb          # Main notebook (data loading, training, evaluation, error analysis)
-├── MSIN0221_team 1_final project.pdf          # Written report
-├── MSIN0221_team 1_final project_presentation (1).pptx  # Presentation slides
+├── GP_team 1 (1).ipynb                                   # Main notebook (data loading, training, evaluation, error analysis)
+├── MSIN0221_team 1_final project.pdf                     # Written report
+├── MSIN0221_team 1_final project_presentation (1).pptx   # Presentation slides
 ├── MSIN0221 Assessment Brief - Group Assignment-6.pdf    # Assignment specification
 ├── LICENSE
 └── README.md
-
 
 ## Methodology
 
